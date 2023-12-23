@@ -1,13 +1,16 @@
+/*sayfa arka plan rengi*/
 *{
     background-color: grey;
 }
 #p{
+    /*yazı hakkında*/
     color: black;
     text-align: center;
     font-size: 70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     text-shadow: 5px 3px 4px red;
+    /*kutu hakkında*/
     box-shadow: 4px 2px 5px black;
     padding: 20px;
     margin: 15px;
