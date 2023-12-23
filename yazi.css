@@ -39,7 +39,24 @@
     top: 15px;
 }
 #p2{
-
+    /*yazı hakkında*/
+    color:#88aefc;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 7px 5px 1px red;
+    /*kutu hakkında*/ 
+    border-style: solid;
+    border-width: 10px;
+    border-color: red #558424 saddlebrown #412355;
+    padding: 5px 15px 12px 20px ;
+    margin: 15px;
+    background-color: #123547;
+    border-radius: 10px 25px 14px 30px ;
+    box-shadow: 7px 5px 2px #123547;
+    position: relative;
+    top: 15px;
 }
 #p3{
     
