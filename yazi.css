@@ -59,7 +59,23 @@
     top: 15px;
 }
 #p3{
-    
+     /*yazı hakkında*/
+     color:#886efc;
+     text-align: center;
+     font-size: 70px;
+     font-family:Arial, Helvetica, sans-serif;
+     text-shadow: 7px 5px 1px blueviolet;
+     /*kutu hakkında*/ 
+     border-style: dotted;
+     border-width: 10px;
+     border-color: red #552724 azure #412425;
+     padding: 5px 15px 12px 20px ;
+     margin: 15px;
+     background-color: #ffff41;
+     border-radius: 10px 1px 14px 30px ;
+     box-shadow: 7px 5px 2px #1ff547;
+     position: relative;
+     top: 15px;
 }
 #p4{
     
