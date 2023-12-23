@@ -78,7 +78,23 @@
      top: 15px;
 }
 #p4{
-    
+    /*yazı hakkında*/
+    color:#8899aa;
+    text-align: center;
+    font-size: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 7px 5px 1px white;
+    /*kutu hakkında*/ 
+    border-style:dashed;
+    border-width: 15px;
+    border-color: sandybrown aliceblue darkgoldenrod chocolate;
+    padding: 24px 15px 30px 40px ;
+    margin: 15px;
+    background-color: #ff6585;
+    border-radius: 10px 1px  30px ;
+    box-shadow: 10px 7px 3px #ff6585;
+    position: relative;
+    top: 15px;
 }
 #p5{
     
