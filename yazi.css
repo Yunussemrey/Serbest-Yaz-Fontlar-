@@ -1,0 +1,21 @@
+body{
+    color:black;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 5px 3px 4px red;
+    box-shadow: 4px 2px 5px black;
+    padding: 20px;
+    margin: 15px;
+    background-color: burlywood;
+    border-radius: 10px;
+    position: relative;
+    top: 15px;
+    
+
+
+}
