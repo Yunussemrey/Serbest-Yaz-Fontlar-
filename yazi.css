@@ -20,7 +20,23 @@
 
 }
 #p1{
-
+   /*yazı hakkında*/
+    color:#00d5f6;
+    text-align: center;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    text-shadow: 5px 3px 4px gray;
+    /*kutu hakkında*/ 
+    border-style: double;
+    border-width: 10px;
+    border-color: bisque springgreen seashell aquamarine;
+    padding: 20px 10px 8px 7px ;
+    margin: 15px;
+    background-color: darkcyan;
+    border-radius: 10px 7px 4px 15px ;
+    position: relative;
+    top: 15px;
 }
 #p2{
 
